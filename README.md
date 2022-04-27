@@ -27,3 +27,4 @@ Linux
 
 Windows    
 + 提供exe和msi两种格式文件，双击即可       
+
